@@ -47,6 +47,6 @@ This is the code that moves down the tree as decisions are made. It gets each va
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
+* Hat tip to anything/anyone who helped.
 * Inspiration
 * etc
