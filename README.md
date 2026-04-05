@@ -1,4 +1,4 @@
-# finalProject
+# Programming for the Web: Final Project Spring 2026
 
 # Project Title and purpose
 
